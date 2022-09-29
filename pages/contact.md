@@ -14,4 +14,6 @@ The quickest way to contact me is usually via email.
 
 [joe.johnson.dev@gmail.com](mailto:joe.johnson.dev@gmail.com)
 
+I am on [LinkedIn](https://www.linkedin.com/in/joe-johnson-dev/) and [GitHub](https://github.com/blvckcoffee).
+
 You can also use the secure form below to send me a message.
