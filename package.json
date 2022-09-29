@@ -1,0 +1,27 @@
+{
+  "name": "joewrites",
+  "version": "1.0.0",
+  "description": "static blog site",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "watch": "npx @11ty/eleventy --watch",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "keywords": [],
+  "author": "Joe Johnson",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "luxon": "^2.3.0",
+    "markdown-it": "^12.3.2",
+    "markdown-it-anchor": "^8.4.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "clean-css": "^5.2.4",
+    "html-minifier": "^4.0.0",
+    "uglify-js": "^3.15.1"
+  }
+}
