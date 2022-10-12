@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: About
+title: joewrites
 date: 2022-09-23
 permalink: /
 eleventyNavigation:
