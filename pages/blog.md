@@ -1,7 +1,6 @@
 ---
 layout: layouts/blog.njk
-title: Blog | joewrites
-metaDescription: a sample blog page
+title: Blog
 date: 2022-09-23
 permalink: /blog/index.html
 eleventyNavigation:

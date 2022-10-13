@@ -1,5 +1,5 @@
 ---
-title: Experience | joewrites
+title: Experience
 metaDescription: Joe's recent work history
 date: 2022-09-23
 permalink: /work/index.html
